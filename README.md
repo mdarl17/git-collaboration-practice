@@ -8,4 +8,13 @@
 - create new repo on github.com
 - add Nathan as colaborator
 
+#### Partner 2 exercises
+- accepted invite
+- copied repo
+-created branch
+-typed stuff in here
+- add, commit, push changes to branch
+- create pull request
+-add partner as reviewer
+
 
