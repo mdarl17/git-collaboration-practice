@@ -7,7 +7,6 @@
 - initial commit
 - create new repo on github.com
 - add Nathan as colaborator
-
 #### Solo Practice
 - checkout new branch
 - make changes to README.md (docs/update_README.md)
