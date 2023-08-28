@@ -1,5 +1,11 @@
 # Git Collaboration Practice
-### Partner 1 exercices
-- Bullet point 1
-- Bullet point 2
-- Bullet point 3
+
+### Collaborating with Nathan Trautenberg
+##### Partner 1 exercices
+- mkdir git-collaboration-practice
+- add files to staging area
+- initial commit
+- create new repo on github.com
+- add Nathan as colaborator
+
+
