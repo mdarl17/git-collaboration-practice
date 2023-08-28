@@ -12,6 +12,9 @@
 - make changes to README.md (docs/update_README.md)
 - make pull request with changes
 - merge changes into main branch
+- make another change
+- make pull request
+- merge changes into main branch
 
 #### Partner 2 exercises
 - accepted invite
